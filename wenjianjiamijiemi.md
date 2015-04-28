@@ -1,4 +1,4 @@
-import java.awt.*;
+mport java.awt.*;
 import java.awt.event.*;
 import java.io.*;
 import javax.swing.*;
@@ -78,4 +78,3 @@ public class Swallow extends Frame{
 		}
 	}
 }
-
